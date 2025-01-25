@@ -21,3 +21,8 @@
 - Studied operator precedence and type conversion in depth.
 - Completed Assignment 3 (Level 2) on operators and precedence.
 
+# 23-01-2025
+
+- Learned control flow (if-else, loops) and logical operators with practical examples.
+- Completed Assignments 4, 5, and 6 on control flow and conditional logic.
+
