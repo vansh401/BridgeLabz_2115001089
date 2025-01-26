@@ -31,3 +31,7 @@
 - Learned about arrays and their implementation in C#.
 - Completed Assignment 7 (Level 1) on arrays.
 
+# 25-01-2025
+
+- Explored arrays further, focusing on multidimensional (2D) arrays in C#.
+- Completed Assignment 8 (Level 2) on arrays, including 2D array problems.
