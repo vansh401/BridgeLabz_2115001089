@@ -26,3 +26,8 @@
 - Learned control flow (if-else, loops) and logical operators with practical examples.
 - Completed Assignments 4, 5, and 6 on control flow and conditional logic.
 
+# 24-01-2025
+
+- Learned about arrays and their implementation in C#.
+- Completed Assignment 7 (Level 1) on arrays.
+
