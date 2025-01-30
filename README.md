@@ -40,3 +40,8 @@
 
 - Learned about method creation, calling, and user-defined methods in C#.
 - Completed Assignment 9 (Level 1) on methods.
+
+# 28-01-2025
+
+- Explored methods in depth, including recursive methods in C#.
+- Completed Assignment 10 (Level 2) and Assignment 11 (Level 3) on methods.
