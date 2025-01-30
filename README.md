@@ -35,3 +35,8 @@
 
 - Explored arrays further, focusing on multidimensional (2D) arrays in C#.
 - Completed Assignment 8 (Level 2) on arrays, including 2D array problems.
+
+# 27-01-2025
+
+- Learned about method creation, calling, and user-defined methods in C#.
+- Completed Assignment 9 (Level 1) on methods.
