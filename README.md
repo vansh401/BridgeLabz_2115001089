@@ -45,3 +45,8 @@
 
 - Explored methods in depth, including recursive methods in C#.
 - Completed Assignment 10 (Level 2) and Assignment 11 (Level 3) on methods.
+
+# 29-01-2025
+
+- Learned about string concepts and various string manipulation techniques in C#.
+- Completed Assignment 12 on string manipulation.
