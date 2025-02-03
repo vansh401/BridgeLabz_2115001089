@@ -68,3 +68,13 @@
 - Learned about C# constructors and instance and class variables.
 - Completed Assignment 16 on constructors and variable types.
 
+# 02-02-2025
+
+- Learned about access modifiers in C# and their usage.
+- Completed Assignment 17 on access modifiers.
+
+
+
+
+
+
