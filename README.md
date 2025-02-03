@@ -56,4 +56,17 @@
 - Explored built-in methods for date and time handling in C#.
 - Completed Assignment 13 on built-in objects (Date & Time).
 
+# 31-01-2025
+
+- Explored more built-in methods in C#.
+- Completed Assignment 14 on built-in methods.
+- Started OOP basics with classes and objects.
+- Completed Assignment 15 on OOP fundamentals (classes & objects).
+
+
+
+
+
+
+
 
