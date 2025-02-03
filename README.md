@@ -50,3 +50,10 @@
 
 - Learned about string concepts and various string manipulation techniques in C#.
 - Completed Assignment 12 on string manipulation.
+
+# 30-01-2025
+
+- Explored built-in methods for date and time handling in C#.
+- Completed Assignment 13 on built-in objects (Date & Time).
+
+
