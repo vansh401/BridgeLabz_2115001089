@@ -63,10 +63,8 @@
 - Started OOP basics with classes and objects.
 - Completed Assignment 15 on OOP fundamentals (classes & objects).
 
+# 01-02-2025
 
-
-
-
-
-
+- Learned about C# constructors and instance and class variables.
+- Completed Assignment 16 on constructors and variable types.
 
