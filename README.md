@@ -82,7 +82,10 @@
 
 - Completed Assignment 18 on this, static, sealed, and is operator.
 
+# 05-02-2025
 
+- Learned object relationships: association, aggregation, and composition in C#.
+- Completed Assignment 19 on these concepts
 
 
 
