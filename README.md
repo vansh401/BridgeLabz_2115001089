@@ -78,6 +78,14 @@
 - Learned about this keyword, is operator, and sealed classes/methods in C#.
 - Practiced problems based on these topics.
 
+# 04-02-2025
+
+- Completed Assignment 18 on this, static, sealed, and is operator.
+
+
+
+
+
 
 
 
