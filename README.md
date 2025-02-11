@@ -73,7 +73,10 @@
 - Learned about access modifiers in C# and their usage.
 - Completed Assignment 17 on access modifiers.
 
+# 03-02-2025
 
+- Learned about this keyword, is operator, and sealed classes/methods in C#.
+- Practiced problems based on these topics.
 
 
 
