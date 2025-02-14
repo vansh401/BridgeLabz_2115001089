@@ -87,6 +87,16 @@
 - Learned object relationships: association, aggregation, and composition in C#.
 - Completed Assignment 19 on these concepts
 
+# 06-02-2025
+
+- Learned about Class Diagrams, Object Diagrams, and Sequence Diagrams.
+- Practiced questions related to these UML diagrams.
+
+
+
+
+
+
 
 
 
