@@ -97,7 +97,9 @@
 - Learned inheritance concepts: single, multilevel, hierarchical, method overriding, constructor inheritance, and polymorphism.
 - Explored access modifiers and key features of inheritance in C#.
 
+# 08-02-2025
 
+- Completed Assignment 20 on inheritance, method overriding, constructor inheritance, and polymorphism.
 
 
 
