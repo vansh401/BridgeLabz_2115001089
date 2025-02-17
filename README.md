@@ -92,6 +92,16 @@
 - Learned about Class Diagrams, Object Diagrams, and Sequence Diagrams.
 - Practiced questions related to these UML diagrams.
 
+# 07-02-2025
+
+- Learned inheritance concepts: single, multilevel, hierarchical, method overriding, constructor inheritance, and polymorphism.
+- Explored access modifiers and key features of inheritance in C#.
+
+
+
+
+
+
 
 
 
