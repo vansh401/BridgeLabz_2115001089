@@ -101,6 +101,10 @@
 
 - Completed Assignment 20 on inheritance, method overriding, constructor inheritance, and polymorphism.
 
+# 09-02-2025
+
+- Learned about Encapsulation, Polymorphism, Interfaces, and Abstract Classes in C#.
+
 
 
 
