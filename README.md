@@ -105,6 +105,10 @@
 
 - Learned about Encapsulation, Polymorphism, Interfaces, and Abstract Classes in C#.
 
+# 10-02-2025
+
+- Completed Assignment 21 on Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
+
 
 
 
